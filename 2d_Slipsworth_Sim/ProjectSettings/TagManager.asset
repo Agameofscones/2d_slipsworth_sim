@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SummonObj
+  - twig
+  - summon_circle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Post Processing
+  - Floor Geomerty
+  - World Geometry
+  - Props
+  - DraggingOBJ
+  - Player
+  - World Overhead
+  - OOB Props
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - FloatGUI
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background (Unused)
+    uniqueID: 2364617709
+    locked: 0
+  - name: Post Processing
+    uniqueID: 1465440575
+    locked: 0
+  - name: Floor Geometry
+    uniqueID: 464362275
+    locked: 0
+  - name: World Geometry
+    uniqueID: 2424953245
+    locked: 0
+  - name: Props
+    uniqueID: 1247390363
+    locked: 0
+  - name: Player
+    uniqueID: 1646296037
+    locked: 0
+  - name: World Overhead
+    uniqueID: 1653722155
+    locked: 0
+  - name: OOB Props
+    uniqueID: 4276687727
+    locked: 0
+  - name: FloatGUI
+    uniqueID: 3240434013
+    locked: 0
